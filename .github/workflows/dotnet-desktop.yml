@@ -20,10 +20,10 @@ jobs:
     - name: Test
       run: dotnet test ./PractiseFunction.Test/
     - name: Restore dependencies
-      run: dotnet restore ./src/PractiseFunction
+      run: dotnet restore ./PractiseFunction
     - name: Build
-      run: dotnet build --no-restore /p:ContinuousIntegrationBuild=true ./src/PractiseFunction
+      run: dotnet build --no-restore /p:ContinuousIntegrationBuild=true ./ractiseFunction
     - name: Test
-      run: dotnet test --no-build --verbosity normal /p:CollectCoverage=true /p:CoverletOutputFormat=opencover ./src/PractiseFunction
+      run: dotnet test --no-build --verbosity normal /p:CollectCoverage=true /p:CoverletOutputFormat=opencover ./PractiseFunction
     - name: Codecov
       uses: codecov/codecov-action@v1
