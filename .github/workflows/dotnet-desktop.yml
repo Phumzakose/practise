@@ -22,7 +22,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore ./PractiseFunction
     - name: Build
-      run: dotnet build --no-restore /p:ContinuousIntegrationBuild=true ./ractiseFunction
+      run: dotnet build --no-restore /p:ContinuousIntegrationBuild=true ./PractiseFunction
     - name: Test
       run: dotnet test --no-build --verbosity normal /p:CollectCoverage=true /p:CoverletOutputFormat=opencover ./PractiseFunction
     - name: Codecov
