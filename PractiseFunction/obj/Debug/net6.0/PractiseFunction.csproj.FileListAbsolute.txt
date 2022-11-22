@@ -1,0 +1,15 @@
+/home/codex/c#projects/practise/PractiseFunction/bin/Debug/net6.0/PractiseFunction
+/home/codex/c#projects/practise/PractiseFunction/bin/Debug/net6.0/PractiseFunction.deps.json
+/home/codex/c#projects/practise/PractiseFunction/bin/Debug/net6.0/PractiseFunction.runtimeconfig.json
+/home/codex/c#projects/practise/PractiseFunction/bin/Debug/net6.0/PractiseFunction.dll
+/home/codex/c#projects/practise/PractiseFunction/bin/Debug/net6.0/PractiseFunction.pdb
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.csproj.AssemblyReference.cache
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.AssemblyInfoInputs.cache
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.AssemblyInfo.cs
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.csproj.CoreCompileInputs.cache
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.dll
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/refint/PractiseFunction.dll
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.pdb
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/PractiseFunction.genruntimeconfig.cache
+/home/codex/c#projects/practise/PractiseFunction/obj/Debug/net6.0/ref/PractiseFunction.dll
